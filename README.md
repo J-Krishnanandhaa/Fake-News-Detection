@@ -164,7 +164,7 @@ eval_steps_per_second: 11.3650
 
 ## 🔍 Data Disclaimer
 ```
-The content included in the sample_texts_for_testing.docx file is **not used directly for training** the machine learning model.
+The content included in the "sample_texts_for_testing.docx" file is **not used directly for training** the machine learning model.
 
 It may serve one or more of the following purposes:
 - Reference for manual analysis or data comparison
