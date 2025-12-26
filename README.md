@@ -110,6 +110,7 @@ Note: This provides a high-level overview. The exact representation of topics de
 │
 ├── frontend/
 │   └── webb.py                  # Basic front-end interface for testing (local use)
+│   └── gradio_app.py            # Hugging Face Gradio interface
 │
 ├── tmp_trainer.py               # Temporary/experimental training script
 └── README.md                    # Project overview and instructions
